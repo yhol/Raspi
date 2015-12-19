@@ -1,0 +1,8 @@
+#!/bin/sh
+#launcher.sh
+# Autorun Control Reley
+
+cd /
+cd home/pi/PiMov
+sudo python PiMov.py
+cd /
